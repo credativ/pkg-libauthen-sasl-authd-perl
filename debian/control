@@ -1,0 +1,21 @@
+Source: libauthen-sasl-authd-perl
+Section: perl
+Priority: optional
+Maintainer: Alexander Wirt <formorer@debian.org>
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.3
+Homepage: http://search.cpan.org/dist/Authen-SASL-Authd/
+
+Package: libauthen-sasl-authd-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: unknown
+ The Authen::SASL::Authd package implements LOGIN authentication protocol used
+ by Cyrus saslauthd and PLAIN authentication protocol supported by Dovecot
+ authentication daemon. It can be used to process authentication requests
+ against configured SASL mechanism implemented by Cyrus or Dovecot SASL
+ libraries. It can also be used to check if a particular user exists according
+ to the Dovecot authentication daemon.
+ .
+ This description was automagically extracted from the module by dh-make-perl.

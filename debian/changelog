@@ -1,0 +1,5 @@
+libauthen-sasl-authd-perl (0.4-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Alexander Wirt <formorer@debian.org>  Fri, 22 Feb 2013 11:23:12 +0100
