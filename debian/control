@@ -1,8 +1,8 @@
 Source: libauthen-sasl-authd-perl
-Section: perl
+Section: tsi/perl
 Priority: optional
-Maintainer: Alexander Wirt <formorer@debian.org>
-Build-Depends: debhelper (>= 8)
+Maintainer: credativ OpSol-Team <opsol@credativ.com>
+Build-Depends: debhelper (>= 9)
 Build-Depends-Indep: perl
 Standards-Version: 3.9.3
 Homepage: http://search.cpan.org/dist/Authen-SASL-Authd/
