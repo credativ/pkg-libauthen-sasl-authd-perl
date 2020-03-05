@@ -1,0 +1,3 @@
+include:
+- project: mail-team/opsol-deb-gitlab
+  file: /pipeline/gitlab-ci.yml
