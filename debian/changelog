@@ -1,3 +1,10 @@
+libauthen-sasl-authd-perl (0.4-2) unstable; urgency=medium
+
+  * use gitlab for package build
+  * update control file
+
+ -- Damian Lukowski <damian.lukowski@credativ.de>  Mon, 15 Jun 2020 15:35:27 +0200
+
 libauthen-sasl-authd-perl (0.4-1) unstable; urgency=low
 
   * Initial Release.
